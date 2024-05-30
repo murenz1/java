@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;font-size: 20px;
+}
+body{
+    background-color: rgb(189, 231, 231);
+}
+.form{
+    position: absolute;
+    height: 450px;
+    padding: 2.5rem;
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    border-radius: 13px;
+}
+.form input{
+    border: 1.5px solid black;
+    margin: 20px;
+    margin-left: 10px;
+
+}
+.button{
+    position: relative;
+    height: 20px;
+    left: 50%;
+    bottom: 45px;
+    align-items: center;
+    background-color:;
+}
+textarea{
+    margin-left: 10px;
+    margin: 20px;
+    width: 92%;
+    margin-right: 10px;
+}
+form .form{
+    margin-top: 10px;
+}
